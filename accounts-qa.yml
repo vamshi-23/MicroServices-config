@@ -2,10 +2,10 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to EazyBank accounts related QA/UAT APIs "
   contactDetails:
-    name: "Lalit - QA Lead"
-    email: "lalit@eazybank.com"
+    name: "Lalit Krishna - QA Lead"
+    email: "lalit.k@eazybank.com"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
